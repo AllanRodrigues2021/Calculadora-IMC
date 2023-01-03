@@ -19,5 +19,4 @@ O programa levará o peso e a altura de uma pessoa como entrada e gera a categor
 
 
 
-
-![image](https://user-images.githubusercontent.com/93384872/210374047-9c8ab594-c5a1-4d65-9e4d-d2e6fee16d98.png)
+![image](https://user-images.githubusercontent.com/93384872/210374421-e7d532d0-aba5-4a7e-a8e9-eb7bd0c27b32.png)
